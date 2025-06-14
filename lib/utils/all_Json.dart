@@ -81,3 +81,43 @@ List<Map<String, dynamic>> ticketList = [
     'number': '105J',
   },
 ];
+
+
+List<Map<String, dynamic>> hotelList = [
+  {
+    'image': 'city_view.png',
+    'place': 'One Space',
+    'destination': 'New York',
+    'price': 25,
+  },
+  {
+    'image': 'city_view.png',
+    'place': 'Sunset Resort',
+    'destination': 'Malibu',
+    'price': 120,
+  },
+  {
+    'image': 'city_view.png',
+    'place': 'Mountain Inn',
+    'destination': 'Denver',
+    'price': 80,
+  },
+  {
+    'image': 'city_view.png',
+    'place': 'Cityscape Hotel',
+    'destination': 'Chicago',
+    'price': 100,
+  },
+  {
+    'image': 'city_view.png',
+    'place': 'Beachside Bungalow',
+    'destination': 'Miami',
+    'price': 90,
+  },
+  {
+    'image': 'city_view.png',
+    'place': 'Royal Palace',
+    'destination': 'Las Vegas',
+    'price': 150,
+  },
+];

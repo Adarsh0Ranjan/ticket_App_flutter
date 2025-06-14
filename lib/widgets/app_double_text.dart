@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:ticket_app/screens/home_screen.dart';
+import 'package:ticket_app/screens/Home/home_screen.dart';
 import 'package:ticket_app/styles/app_styles.dart';
 
 class AppDoubleText extends StatelessWidget {
